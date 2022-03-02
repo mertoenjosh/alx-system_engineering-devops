@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(ls -w2) 
+echo $(ls -l) 
