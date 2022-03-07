@@ -7,3 +7,7 @@
 1. Write a script that displays a confused smiley "(Ôo)'.
 
   > [confused_smiley](1-confused_smiley)
+
+2. Display the content of the /etc/passwd file.
+
+  > [hellofile](2-hellofile)
