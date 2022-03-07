@@ -1,1 +1,9 @@
-This is the read me file
+### Questions on the assignments.
+
+0. Write a script that prints “Hello, World”, followed by a new line to the standard output.
+
+  > [hello_world](0-hello_world)
+
+1. Write a script that displays a confused smiley "(Ôo)'.
+
+  > [confused_smiley](1-confused_smiley)
