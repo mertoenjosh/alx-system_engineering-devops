@@ -6,6 +6,6 @@
 
 - The directory contains scripts that run some basic shell commands.
 
-### 0-00 Shell permissions
+### 0-01 Shell permissions
 
 - Contains scripts that deals with permissions and file ownership.
